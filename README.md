@@ -13,5 +13,4 @@ Basically, have your project's package.json be like:
 ```
 
 Then call mocha with:
-
 `mocha --reporter mocha-teamcity-reporter test`
